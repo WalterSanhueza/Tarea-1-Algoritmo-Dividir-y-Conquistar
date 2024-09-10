@@ -39,7 +39,7 @@ void multiplicacion_matrices_transpuesta(int n, const vector<vector<int>>& A, co
     }
 }
 
-/*funcion: verMatriz(vector<vector>)
+/*funcion: imprimir_matriz(vector<vector>)
 parametros: vector de vectores
 resumen: funcion que itera dentro de una matriz
 formada por vectores de vectores e imprime sus valores 
