@@ -1,4 +1,0 @@
-Aqui esta el codigo que genera el dataset y tambien los 3 algoritmos solicitados:
-1.-Tradicional
-2.-Traspuesto
-3.-Strassen
