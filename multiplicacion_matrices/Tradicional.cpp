@@ -21,6 +21,12 @@ void verMatriz(vector<vector<int>>& mat) {
     }
 }
 
+/*funcion: mulMat(vector<vector<int>>&, vector<vector<int>>& , int , int , int , int )
+parametros: vector de vectores
+resumen: funcion que realiza la multiplicacion
+de las matrices mat1 y mat2 retornando el resultado 
+del producto como vector de vectores.
+*/
 vector<vector<int>> mulMat(vector<vector<int>>& mat1, vector<vector<int>>& mat2, int R1, int C1, int R2, int C2) {
     vector<vector<int>> rslt(R1, vector<int>(C2));
 
