@@ -4,6 +4,14 @@
 #include <ctime>
 using namespace std;
 
+/*
+funcion: generateTestCases()
+parametros: ninguno
+resumen: Funcion que genera los 25 lineas
+agrupadas en 5 casos de prueba separados por 
+un saltos de linea.Los casos los guarda en un 
+archivo de texto llamado test_cases.txt.
+*/
 void generateTestCases() {
     ofstream file("test_cases.txt");
 
